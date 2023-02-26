@@ -38,6 +38,7 @@
   width: 50px !important;
   border-left: 1px solid lightgray;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .header__right__icons {
